@@ -1,2 +1,4 @@
 # learn_chef_httpd
-followed from learn chef
+
+TODO: Enter the cookbook description here.
+
